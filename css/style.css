@@ -126,6 +126,12 @@ code {
 .block-merging h2 { color: #666; }
 .block-tagging { background-color: #F2F2F2; }
 .block-tagging h2 { color: #FFF; }
+.github-fork { background-color: #9fc19f; }
+.github-fork h2{ color: #FFF; }
+.github-pullrequest { background-color: #cc4009; }
+.github-pullrequest h2{ color: #ffffb3; }
+.github-pullrequest p{ color: #fff; }
+.github-network { background-color: #9fb3c1; }
 .block-hints { background-color: #F2F2F2; }
 .block-hints h2 { color: #FFF; }
 .block-resources { background-color: #ffc19f; }
